@@ -28,7 +28,7 @@ Open the solution via Visual Studio, build and run.
 How can I contribute to the project?
 
 ```
-1. Create a fork from PlanetInfo repository.
+1. Create a fork from AutoCLicker repository.
 2. git clone https://github.com/dantsec/AutoClicker.git
 3. cd AutoClick/
 4. Create a branch and make your changes.
