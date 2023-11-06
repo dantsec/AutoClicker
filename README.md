@@ -22,6 +22,8 @@ Open the solution via Visual Studio, build and run.
 ## To-do ##
 - [ ] Current location click
 - [ ] "Records" top section: save presets (NAME ; X ; Y)
+- [ ] Perform middle button click
+- [ ] Click Repeat Group Box - repeat clicks with determinated time (ex: click for X hours / minuts / secs / millisecs)
 
 ## Contributing ##
 
